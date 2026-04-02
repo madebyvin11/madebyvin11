@@ -1,4 +1,5 @@
-# 💫 About Me: 
+# Welcome To My Profile
+<p aligan="left"></p>
 <p align="center">
   <img src="opening.gif" width="100%">
 </p>
