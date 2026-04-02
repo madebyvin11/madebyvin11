@@ -1,6 +1,6 @@
 # 💫 About Me: 
 <p align="center">
-  <img src="assets/opening.gif" width="100%">
+  <img src="opening.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vin</h1>
