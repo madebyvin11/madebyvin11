@@ -1,13 +1,13 @@
-<!-- HEADER -->
+# 💫 About Me: 
 <p align="center">
-  <img src="https://i.imgur.com/your-image.png" width="100%" alt="banner"/>
+  <img src="assets/opening.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vin</h1>
-<h3 align="center">🚀 Web Developer | 🔐 Cyber Security Enthusiast | 🎮 Game Developer</h3>
+<h3 align="center">🚀 Web Developer | 🎮 Game Developer | 📊 Database Management</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+building+cool+things;Always+learning+new+tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;My+Name+Is+Vin;I+love+building+cool+things;Always+learning+new+tech&center=true&width=500&height=45">
 </p>
 
 # 💫 About Me:
