@@ -1,3 +1,15 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://i.imgur.com/your-image.png" width="100%" alt="banner"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Vin</h1>
+<h3 align="center">🚀 Web Developer | 🔐 Cyber Security Enthusiast | 🎮 Game Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+building+cool+things;Always+learning+new+tech&center=true&width=500&height=45">
+</p>
+
 # 💫 About Me:
 My name is Lauvin Dondi, but y'all can call me Vin, a vocational high school student at SMK Prestasi Prima with a <br>strong passion for technology and continuous learning. I have a deep interest in web development, cybersecurity, and <br>game development, where I enjoy exploring both the creative and technical aspects of building digital solutions. Driven by<br>curiosity and discipline, I strive to improve my skills through hands-on projects and problem-solving challenges. I believe <br>that coding is not just about writing lines of logic, but about crafting ideas into reality—turning imagination into <br>innovation through clean, efficient, and purposeful code.
 
