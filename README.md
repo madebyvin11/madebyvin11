@@ -37,10 +37,10 @@ My name is Lauvin Dondi, but y'all can call me Vin, a vocational high school stu
 ---
 [![](https://visitcount.itsvg.in/api?id=madebyvin11&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DragonCode098/DragonCode098/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DragonCode098/DragonCode098/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DragonCode098/DragonCode098/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madebyvin11&theme=midnight-purple&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=madebyvin11&theme=midnight-purple&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyvin11&theme=midnight-purple&hide_border=false&layout=compact"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
