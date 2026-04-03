@@ -18,6 +18,7 @@ My name is Lauvin Dondi, but y'all can call me Vin, a vocational high school stu
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/madeby._vin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@madeby._vin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itz_leo.vin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dondilauvin@gmail.com) 
 
+## Let's chill with some music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vryddsz4v2noh6kiszfxmix3ua&unique={true|1|on|yes})
 
 # Tech Stack:
