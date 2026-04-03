@@ -37,10 +37,7 @@ My name is Lauvin Dondi, but y'all can call me Vin, a vocational high school stu
 ---
 [![](https://visitcount.itsvg.in/api?id=madebyvin11&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madebyvin11&theme=midnight-purple&hide_border=false"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=madebyvin11&theme=midnight-purple&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyvin11&theme=midnight-purple&hide_border=false&layout=compact"/>
-</p>
+## 🏆 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madebyvin11&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
